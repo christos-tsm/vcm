@@ -1,0 +1,43 @@
+export const data = [
+    {
+        id: 1,
+        name: "Mpla",
+        place: "Outer volos area",
+        imageUrl: "https://wallpaperaccess.com/full/1994610.jpg",
+        description: "lorem ipsum dolor amet.",
+        rating: "4",
+        isFeatured: false,
+        isPublished: true,
+    },
+    {
+        id: 2,
+        name: "Mpla 2",
+        place: "Volos",
+        imageUrl:
+            "https://t3.ftcdn.net/jpg/04/49/80/00/360_F_449800012_K3ksfDPcOu1bN7NTUOSEoVb9KlEIzXwy.jpg",
+        description: "lorem ipsum dolor amet.",
+        rating: "4",
+        isFeatured: false,
+        isPublished: true,
+    },
+    {
+        id: 3,
+        name: "Mpla 3",
+        place: "Outer volos area",
+        imageUrl: "",
+        description: "lorem ipsum dolor amet.",
+        rating: "4",
+        isFeatured: false,
+        isPublished: true,
+    },
+    {
+        id: 4,
+        name: "Mpla 4",
+        place: "Outer volos area",
+        imageUrl: "",
+        description: "lorem ipsum dolor amet.",
+        rating: "4",
+        isFeatured: false,
+        isPublished: true,
+    },
+];
